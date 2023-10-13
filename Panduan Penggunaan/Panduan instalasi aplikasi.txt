@@ -1,0 +1,20 @@
+Instalasi
+- Pindahkan folder Aplikasi-Sistem-Informasi-SPPD ke folder htdocs atau www
+- Buat database dengan nama p_sppd
+- Import file yanga ada pada folder Database
+- Jalankan dengan mengakses lewat browser URL http://localhost/Aplikasi-Sistem-Informasi-SPPD
+
+Login
+Operator
+Username = operator
+Pass = operator
+
+Kabag
+Username = kabag
+Pass = kabag
+
+Pegawai
+Kode Anggota = 196103111 198804 1 001
+Pass = 196103111 198804 1 001
+
+============Tested on PHP 5.6.12 (XAMPP v3.2.1)============
